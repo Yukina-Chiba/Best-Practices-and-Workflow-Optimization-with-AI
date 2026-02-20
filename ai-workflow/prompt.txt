@@ -1,0 +1,5 @@
+first prompt : Debug and refactor this pricing card HTML/CSS. First fix all visible bugs and styling issues, then convert it into a reusable JavaScript component that can generate multiple cards with different pricing tiers (Basic, Pro, Enterprise). Add modern styling, hover effects, and make it responsive.
+code :
+
+
+second prompt : i want the buttons of "start trial" and "get started" to match with "contact sale" in terms of alignment.
